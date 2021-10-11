@@ -21,7 +21,7 @@
 ## Github Stats
 ![Mostafa_Stats](https://github-readme-stats.vercel.app/api?username=seyed-mostafa&theme=radical&show_icons=true&count_private=true)
 
-![Mostafa Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seyed-mostafa&layout=compact&theme=radical&show_icons=true&count_private=true)
+![Mostafa Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seyed-mostafa&layout=compact&theme=radical&show_icons=true)
 <!-- 
 ### Github Streaks
 ![Mostafa_Streaks](http://github-readme-streak-stats.herokuapp.com/?user=seyed-mostafa&theme=radical) -->
