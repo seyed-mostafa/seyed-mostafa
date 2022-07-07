@@ -20,7 +20,7 @@
 ![Mostafa_Stats](https://github-readme-stats.vercel.app/api?username=seyed-mostafa&theme=radical&show_icons=true&count_private=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyed-mostafa&layout=compact&theme=radical)](https://github.com/seyed-mostafa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyed-mostafa&layout=compact&theme=radical&count_private=true)](https://github.com/seyed-mostafa/github-readme-stats)
 
 
 <!-- 
